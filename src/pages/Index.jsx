@@ -5,11 +5,11 @@ const Index = () => {
     <Container maxW="container.xl" p={0}>
       <Box bg="black" color="gold" minHeight="100vh" p={8}>
         <VStack spacing={10} align="stretch">
-          <Heading as="h1" size="2xl" textAlign="center">Lil Baby</Heading>
+          <Heading as="h1" size="2xl" textAlign="center">Mac Miller</Heading>
           <Box>
             <Heading as="h2" size="xl">Biography</Heading>
             <Text mt={4}>
-              Dominique Armani Jones, known professionally as Lil Baby, is an American rapper, singer, and songwriter from Atlanta, Georgia. Emerging as one of the leading figures in the trap music scene, Lil Baby has gained critical acclaim and widespread popularity for his distinctive flow and autobiographical lyrical style.
+              Malcolm James McCormick, known professionally as Mac Miller, was an American rapper, singer, and record producer from Pittsburgh, Pennsylvania. Known for his introspective and nuanced musical style, Mac Miller gained a loyal following with his deeply personal and relatable lyrics.
             </Text>
           </Box>
           <Box>
@@ -24,7 +24,7 @@ const Index = () => {
           <Box>
             <Heading as="h2" size="xl">Upcoming Tours</Heading>
             <Text mt={4}>
-              Catch Lil Baby live in concert at these locations. Visit the official website for more details and ticket information.
+              Catch Mac Miller live in concert at these locations. Visit the official website for more details and ticket information.
               {/* Tour dates and locations can be added here */}
             </Text>
           </Box>
