@@ -5,19 +5,19 @@ const Index = () => {
     <Container maxW="container.xl" p={0}>
       <Box bg="black" color="gold" minHeight="100vh" p={8}>
         <VStack spacing={10} align="stretch">
-          <Heading as="h1" size="2xl" textAlign="center">Lil Baby</Heading>
+          <Heading as="h1" size="2xl" textAlign="center">Mac Miller</Heading>
           <Box>
             <Heading as="h2" size="xl">Biography</Heading>
             <Text mt={4}>
-              Dominique Armani Jones, known professionally as Lil Baby, is an American rapper, singer, and songwriter from Atlanta, Georgia. Emerging as one of the leading figures in the trap music scene, Lil Baby has gained critical acclaim and widespread popularity for his distinctive flow and autobiographical lyrical style.
+              Malcolm James McCormick, known professionally as Mac Miller, was an American rapper, singer, and record producer from Pittsburgh, Pennsylvania. Known for his canny wordplay and artistic reinvention, Mac Miller gained a loyal following with his deeply personal and introspective lyrics.
             </Text>
           </Box>
           <Box>
             <Heading as="h2" size="xl">Discography</Heading>
             <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={5} mt={4}>
-              <Text>Scorpion (2018)</Text>
-              <Text>Views (2016)</Text>
-              <Text>Nothing Was the Same (2013)</Text>
+              <Text>Swimming (2018)</Text>
+              <Text>The Divine Feminine (2016)</Text>
+              <Text>GO:OD AM (2015)</Text>
               {/* More albums can be added here */}
             </SimpleGrid>
           </Box>
