@@ -5,11 +5,11 @@ const Index = () => {
     <Container maxW="container.xl" p={0}>
       <Box bg="black" color="gold" minHeight="100vh" p={8}>
         <VStack spacing={10} align="stretch">
-          <Heading as="h1" size="2xl" textAlign="center">Drake</Heading>
+          <Heading as="h1" size="2xl" textAlign="center">Lil Baby</Heading>
           <Box>
             <Heading as="h2" size="xl">Biography</Heading>
             <Text mt={4}>
-              Aubrey Drake Graham, known mononymously as Drake, is a Canadian rapper, singer, and actor. Gaining recognition by starring in the television series Degrassi: The Next Generation, Drake launched his music career in 2006 and has since become one of the most prominent artists in the music industry.
+              Dominique Armani Jones, known professionally as Lil Baby, is an American rapper, singer, and songwriter from Atlanta, Georgia. Emerging as one of the leading figures in the trap music scene, Lil Baby has gained critical acclaim and widespread popularity for his distinctive flow and autobiographical lyrical style.
             </Text>
           </Box>
           <Box>
@@ -24,7 +24,7 @@ const Index = () => {
           <Box>
             <Heading as="h2" size="xl">Upcoming Tours</Heading>
             <Text mt={4}>
-              Catch Drake live in concert at these locations. Visit the official website for more details and ticket information.
+              Catch Lil Baby live in concert at these locations. Visit the official website for more details and ticket information.
               {/* Tour dates and locations can be added here */}
             </Text>
           </Box>
