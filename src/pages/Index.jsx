@@ -5,11 +5,11 @@ const Index = () => {
     <Container maxW="container.xl" p={0}>
       <Box bg="black" color="gold" minHeight="100vh" p={8}>
         <VStack spacing={10} align="stretch">
-          <Heading as="h1" size="2xl" textAlign="center">Lil Baby</Heading>
+          <Heading as="h1" size="2xl" textAlign="center">Drake</Heading>
           <Box>
             <Heading as="h2" size="xl">Biography</Heading>
             <Text mt={4}>
-              Dominique Armani Jones, known professionally as Lil Baby, is an American rapper, singer, and songwriter from Atlanta, Georgia. Emerging as one of the leading figures in the trap music scene, Lil Baby has gained critical acclaim and widespread popularity for his distinctive flow and autobiographical lyrical style.
+              Aubrey Drake Graham, known mononymously as Drake, is a Canadian rapper, singer, and songwriter. Known for his introspective songwriting and versatile vocals, Drake has gained international fame for his innovative contributions to music and culture.
             </Text>
           </Box>
           <Box>
@@ -18,13 +18,14 @@ const Index = () => {
               <Text>Scorpion (2018)</Text>
               <Text>Views (2016)</Text>
               <Text>Nothing Was the Same (2013)</Text>
-              {/* More albums can be added here */}
+              <Text>Take Care (2011)</Text>
+              <Text>Thank Me Later (2010)</Text>
             </SimpleGrid>
           </Box>
           <Box>
             <Heading as="h2" size="xl">Upcoming Tours</Heading>
             <Text mt={4}>
-              Catch Lil Baby live in concert at these locations. Visit the official website for more details and ticket information.
+              Catch Drake live in concert at these locations. Visit the official website for more details and ticket information.
               {/* Tour dates and locations can be added here */}
             </Text>
           </Box>
